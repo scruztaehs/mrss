@@ -8,12 +8,16 @@
     </template>
 </category>
 <category>
-    <pattern>NurseL</pattern>
-    <template>Go on to the next page</template>
+    <pattern>WHAT IS YOUR NAME</pattern>
+    <template>My name is Michael. Pleased to neet you.</template>
 </category>
 <category>
-    <pattern>FOOD *</pattern>
-    <template>I love to eat that as well.</template>
+    <pattern>WHAT IS YOUR FAVORITE COLOR</pattern>
+    <template>Let me think! My favorite colors are warm colors.</template>
+</category>
+<category>
+    <pattern>WHAT IS YOUR FAVORITE FOOD</pattern>
+    <template>Don't put me on the spot! I do love my chocolate and comfort foods.</template>
 </category>
 
 </aiml>
